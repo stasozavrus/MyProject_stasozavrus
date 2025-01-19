@@ -2,7 +2,7 @@
 
 int main(){
     
-    std::cout << "bla UPDATED FOR MAIN" << std::endl;
+    std::cout << "Conflict solved" << std::endl;
 
     std::cout << "something new" << std::endl;
 
