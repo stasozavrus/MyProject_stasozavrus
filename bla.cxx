@@ -6,7 +6,5 @@ int main(){
 
     std::cout << "something new" << std::endl;
 
-    std::cout << "conflict" << std::endl;
-
     return 0;
 }
